@@ -1,0 +1,4 @@
+matplotlib==3.7.1
+numpy==1.23.5
+progress==1.6
+wakepy==0.6.0
